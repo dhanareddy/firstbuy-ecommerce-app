@@ -1,0 +1,14 @@
+1. Write a JavaScript function to print the summation of even position digits in the number.
+2. Write a JavaScript function to print the factorial of each digit in the number.
+3. Write a JavaScript function to check wheather the given number is prime.
+4. Write a JavaScript function to print the Amstrong numbers in the given range.
+5. Write a JavaScript function to print the perfect numbers in the given range.
+6. Write a JavaScript function to add value 5 to even elements in the array and add 2 to odd elements in the array.
+7. Write a JavaScript function to find summation of odd elements in the array.
+8. Write a JavaScript function to find product of values present in the arry which is devisable by both 2 and 3.
+9. Write a JavaScript function to copy the values into new array from two arrays(a1,a2) in zig-zag manner. 
+10.Write a JavaScript code to creat an Object for book with attribute as (book-id,book_title,price) and add print values from the Object.
+11.Write a javaScript code to store 5 employee details in array(employee is an object with attributes eid,name,contact_number,salary).
+12.Write a javaScript function to sort the 4 employee objects in ascending order of their employee_id.
+13.Write a javaScript function to sort the 4 book objects in descending order of the book_title.
+14.write a javaScript code to create an object for employee with attibutes as eid,name,contact_number,salary,adderss(address is an object with attributes as house_number,land_mark and street_name).
